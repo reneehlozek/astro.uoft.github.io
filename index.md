@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Astro Comprehensive Guide
+
+This is a test
+
 
 You can use the [editor on GitHub](https://github.com/reneehlozek/astro.uoft.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
